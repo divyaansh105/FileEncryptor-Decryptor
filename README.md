@@ -31,19 +31,20 @@ mkdir test
 
 # Run the Python script to generate sample files
 python3 makeDirectory.py
-
-# Continue with Step 2: Build the Project
-
+```
 ### 2. Build the Project
+
+```bash
 
 If a `Makefile` is provided, you can build the project using:
 
-```bash
 make
+```
 
 ### 3. Run the Program
+```bash
 ./encrypt_decrypt.exe
-
+```
 
 ## Snapshots 
 1. Before 
